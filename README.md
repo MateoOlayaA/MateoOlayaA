@@ -27,7 +27,7 @@
   </samp>
 </h1>
 
-**Desarrollador de software** e **ingeniero multimedia** con una especialización de analítica de Big Data en proceso. Mi experiencia abarca el desarrollo de aplicaciones utilizando herramientas como React, Node + Express, Redux, JavaScript, TypeScript, HTML + CSS + SASS, Docker, Python, GIT + GitHub y PostgreSQL + MySQL + SQL; los cuales fueron implementadas a través de proyectos personales.
+**Desarrollador de Software** e **Ingeniero Multimedia** con una Maestria en IA y ciencia de datos en proceso. Mi experiencia abarca el desarrollo de aplicaciones utilizando herramientas como React, Nest, Redux, TypeScript, HTML + CSS + SASS, Docker, Python, GIT + GitHub y PostgreSQL + MySQL + SQL; los cuales fueron implementadas a través de proyectos personales.
 
 <h1 align="left"> 
   <samp>
