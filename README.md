@@ -6,7 +6,7 @@
 
 <h3 align="center"> 
   <samp>
-    「 Desarrollador de Software, Ingeniero Multimedia, Master en IA y ciencia de datos 」
+    「 Desarrollador de Software, Ingeniero Multimedia e Ingeniero en IA y ciencia de datos 」
     <br>
   </samp>
 </h3>
